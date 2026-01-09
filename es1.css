@@ -1,0 +1,15 @@
+input {
+    padding: 8px;
+    border: 1px solid grey;
+.bordo-blu {
+    border: 2px solid blue;
+}
+
+.bordo-rosa {
+    border: 2px solid pink;
+}
+
+.bordo-rosso {
+    border: 2px solid red;
+}
+}
